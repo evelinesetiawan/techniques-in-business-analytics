@@ -1,6 +1,6 @@
 # 💡 LuminaTech Lighting – Business Analytics Report
 
-**Team 68** – This project was submitted for the BUSA8000: Techniques in Business Analytics course at Macquarie Business School. Our task was to analyse LuminaTech Lighting’s sales dataset and provide actionable insights using exploratory data analysis, statistical testing, and regression inference.
+**Team 68** – This project was submitted for the Techniques in Business Analytics course at Macquarie Business School. Our task was to analyse LuminaTech Lighting’s sales dataset and provide actionable insights using exploratory data analysis, statistical testing, and regression inference.
 
 ---
 
